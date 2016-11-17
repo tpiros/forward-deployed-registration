@@ -1,11 +1,11 @@
 $(function() {
-  var eventName = 'DevCon Tel Aviv 2016';
+  var eventName = '';
   /*
     name of conference
     conference | meetup
     workshop | presentation
   */
-  var collections = ['devcon-telaviv-2016', 'conference', 'workshop'];
+  var collections = [''];
 
   document.title = eventName;
   $('#title').append(eventName);
